@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 ### **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/use-popcorn.git
+git clone https://github.com/lowkkid/use-popcorn.git
 cd use-popcorn
 ```
 
